@@ -1,0 +1,46 @@
+body {
+    background-color: lightblue;
+    opacity: 1.0;
+}/*Cor de Fundo*/
+
+h1,
+h2 {
+    text-align: center;
+    color: red;
+}
+
+#para1,#para2 {
+    border-bottom: 1px solid black;
+}/*borda*/
+
+#para1 {
+    text-align: center;
+    color: black;
+}
+
+#para2 {
+    text-align: center;
+    color: black;
+}
+
+#linha {
+    color: red;
+}
+
+P,li{
+    margin-top: 0px;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    margin-left: 150px;
+}
+li{
+    margin-top: 0px;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    margin-left: 125px;
+}
+/**p {
+    text-align-last: center;
+  }*/
+/*{color: blue;}*/
+/*p{color: blue;}*/
